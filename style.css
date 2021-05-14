@@ -88,6 +88,18 @@ img {
   background-color: rgb(185, 185, 185);
 }
 
+.seminar {
+  background-color: #ffc8dd;
+}
+
+.promo {
+  background-color: #fff9b3;
+}
+
+.immi {
+  background-color: #a2edea;
+}
+
 .link.btn {
   width: 100%;
   justify-content: center;
