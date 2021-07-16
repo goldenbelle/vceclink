@@ -1,0 +1,62 @@
+{
+  "portfolio" : {
+    "web" : [ null, {
+      "name" : "haha",
+      "thumbnail" : "gg",
+      "tool" : "tt"
+    }, {
+      "n" : "a"
+    } ]
+  },
+  "resume" : {
+    "education" : [ {
+      "degree" : "HTML/CSS/Javascript/Python/React",
+      "location" : "Online",
+      "period" : "JAN. 2021 ~ Present",
+      "school" : "Nomad Coders"
+    }, {
+      "degree" : "Bacholor of Business Administration (Marketing)",
+      "location" : "Vancouver, BC",
+      "period" : "JUL. 2014 ~ JAN.2018",
+      "school" : "Acsenda School of Management"
+    }, {
+      "degree" : "Computer and Information Technology",
+      "location" : "Seoul, South Korea",
+      "period" : "MAR. 2011 ~ JUN.2013",
+      "school" : "Seongkonghoe University"
+    } ],
+    "skill" : [ {
+      "logo" : "",
+      "skill" : "HTML"
+    }, {
+      "logo" : "",
+      "skill" : "CSS"
+    }, {
+      "logo" : "",
+      "skill" : "Javascript"
+    }, {
+      "logo" : "",
+      "skill" : "React"
+    }, {
+      "logo" : "",
+      "skill" : "MongoDB"
+    }, {
+      "logo" : "",
+      "skill" : "GraphQL"
+    }, {
+      "logo" : "",
+      "skill" : "Python"
+    } ],
+    "work" : [ {
+      "company" : "VCEC Education Consulting",
+      "detail" : [ "Design digital contents to promote brand identity", "Design and manage website and socical network channels", "Design marketing materials such as brochures, flyers, and posters", "" ],
+      "period" : "MAR. 2018 ~ Present",
+      "position" : "Marketing Coordinator"
+    }, {
+      "company" : "Human Bio Health Ltd.",
+      "detail" : [ "", "", "", "" ],
+      "period" : "APR. 2016 ~ NOV. 2019",
+      "position" : "Graphic Designer"
+    } ]
+  }
+}

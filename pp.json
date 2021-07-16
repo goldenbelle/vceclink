@@ -1,0 +1,179 @@
+{
+  "portfolio": {
+    "design": [
+      {
+        "id": "1",
+        "title": "VCEC Brand Identity",
+        "tool": ["Photoshop", "Illustrator"],
+        "thumbnail_url": "https://i.imgur.com/HZ789wo.jpg",
+        "detail": "vcec brand identity",
+        "imgs_url": [
+          "https://i.imgur.com/HZ789wo.jpg",
+          "https://i.imgur.com/oDneYD3.jpg",
+          "https://i.imgur.com/ulSjISD.jpg",
+          "https://i.imgur.com/aN2EG30.jpg",
+          "https://i.imgur.com/XLaNWCx.jpg"
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Posters",
+        "tool": ["Photoshop"],
+        "thumbnail_url": "https://i.imgur.com/vdWWDSr.jpg",
+        "detail": "hgehgehge",
+        "imgs_url": [
+          "https://i.imgur.com/vdWWDSr.jpg",
+          "https://i.imgur.com/FUQDpe6.jpg"
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Instagram Contents",
+        "tool": ["Photoshop"],
+        "thumbnail_url": "https://i.imgur.com/3lbhXfm.jpg",
+        "detail": "hgehgehge",
+        "imgs_url": [
+          "aaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "bbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+          "cdddddddddddddddddddddddddddddddd"
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Package Designs",
+        "tool": ["Illustrator", "Photoshop"],
+        "thumbnail_url": "https://i.imgur.com/X7KH3dV.jpg",
+        "detail": "hgehgehge",
+        "imgs_url": [
+          "https://i.imgur.com/X7KH3dV.jpg",
+          "https://i.imgur.com/MIxH2IE.jpg"
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Promotion Web Banners",
+        "tool": ["Photoshop", "Illustrator"],
+        "thumbnail_url": "https://i.imgur.com/j482sdE.jpg",
+        "detail": "gggg",
+        "imgs_url": [
+          "https://i.imgur.com/I84aPKE.jpg",
+          "https://i.imgur.com/I84aPKE.jpg",
+          "https://i.imgur.com/c4DHbQP.jpg"
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Video Editing",
+        "tool": ["Finalcut", "Motion"],
+        "thumbnail_url": "https://i.imgur.com/6CKs1Oe.jpg",
+        "detail": "hgehgehge",
+        "imgs_url": [
+          "aaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "bbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+          "cdddddddddddddddddddddddddddddddd"
+        ]
+      }
+    ],
+    "web": [
+      {
+        "id": "1",
+        "title": "Movie List",
+        "tool": ["React", "Styled-component"],
+        "thumbnail_url": "https://i.imgur.com/QYlz811.jpg",
+        "detail": "React",
+        "live_url": "https://movieclone21.netlify.app",
+        "imgs_url": [
+          "https://i.imgur.com/QYlz811.jpg",
+          "https://i.imgur.com/12a5e00.jpg",
+          "https://i.imgur.com/i4gzf2Q.jpg",
+          "https://i.imgur.com/dB7qBsP.jpg",
+          "https://i.imgur.com/5IQnHFO.jpg"
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Remote Job Search",
+        "tool": ["Python", "HTML", "CSS"],
+        "thumbnail_url": "https://i.imgur.com/Mq9ybfQ.jpg",
+        "detail": "hgehgehge",
+        "live_url": "https://day-thirteen-and-fourteen.caxbelle.repl.co",
+        "imgs_url": [
+          "https://i.imgur.com/Mq9ybfQ.jpg",
+          "https://i.imgur.com/UItDBeT.jpg",
+          "https://i.imgur.com/zzdJje1.jpg"
+        ]
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "degree": "HTML/CSS/Javascript/Python/React",
+        "location": "Online",
+        "period": "JAN. 2021 ~ Present",
+        "school": "Nomad Coders"
+      },
+      {
+        "degree": "Bacholor of Business Administration (Marketing)",
+        "location": "Vancouver, BC",
+        "period": "JUL. 2014 ~ JAN.2018",
+        "school": "Acsenda School of Management"
+      },
+      {
+        "degree": "Computer and Information Technology",
+        "location": "Seoul, South Korea",
+        "period": "MAR. 2011 ~ JUN.2013",
+        "school": "Seongkonghoe University"
+      }
+    ],
+    "skill": [
+      {
+        "logo": "",
+        "skill": "HTML"
+      },
+      {
+        "logo": "",
+        "skill": "CSS"
+      },
+      {
+        "logo": "",
+        "skill": "Javascript"
+      },
+      {
+        "logo": "",
+        "skill": "React"
+      },
+      {
+        "logo": "",
+        "skill": "MongoDB"
+      },
+      {
+        "logo": "",
+        "skill": "GraphQL"
+      },
+      {
+        "logo": "",
+        "skill": "Python"
+      }
+    ],
+    "work": [
+      {
+        "company": "VCEC Education Consulting",
+        "detail": [
+          "Design digital contents to promote brand identity",
+          "Design and manage website and socical network channels",
+          "Design marketing materials such as brochures, flyers, and posters",
+          ""
+        ],
+        "period": "MAR. 2018 ~ Present",
+        "position": "Marketing Coordinator"
+      },
+      {
+        "company": "Human Bio Health Ltd.",
+        "detail": ["", "", "", ""],
+        "period": "APR. 2016 ~ NOV. 2019",
+        "position": "Graphic Designer"
+      }
+    ]
+  }
+}
