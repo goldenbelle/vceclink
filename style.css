@@ -134,3 +134,7 @@ img {
   background-color: #0182e7;
   color: white;
 }
+
+.link img {
+  width: 20px;
+}
